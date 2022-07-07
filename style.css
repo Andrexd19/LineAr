@@ -63,6 +63,7 @@ body.menu-expanded .open-menu {
 }
 #expanded .menu {
   position: fixed;
+  left: 0;
   z-index: 1;
 }
 body.menu-expanded {
